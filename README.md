@@ -37,7 +37,9 @@ This dashboard helps in:
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+
+
+![project dashbord img](https://github.com/user-attachments/assets/d1d7a3be-a705-49ec-8b77-b1692111b805)
 
 
 
